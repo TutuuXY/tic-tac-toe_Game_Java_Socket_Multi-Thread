@@ -1,7 +1,7 @@
 tic-tac-toe_Game_Java_Socket_Multi-Thread
 =================================
 
-Finish Data: March 2010
+Finish Data: March 2013
 
 Java Implementation of tic-tac-toe game. Client-Server architecture, Java multi-thread programming and socket programming applied. This is the Programming Assignment I of the COME 4119 Computer Network Course I am taking in Columbia University. 
 

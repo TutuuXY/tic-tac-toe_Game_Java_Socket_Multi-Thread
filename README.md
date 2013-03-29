@@ -8,6 +8,7 @@ Java Implementation of tic-tac-toe game. Client-Server architecture, Java multi-
 Please see the introduction, description and design of the project in "Description.pdf".
 
 ![My image](https://raw.github.com/TutuuXY/Snapshots_for_Readmes_of_all_projects/master/tic-tac-toe_Game_Java_Socket_Multi-Thread.png)
+
 Image from wikipedia.
 
 Please don't use this for cheating!!!
